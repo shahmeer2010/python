@@ -1,0 +1,10 @@
+x = eval(input("enter value a"))
+y = eval(input("enter value b"))
+sum = x+y
+diff = x-y
+pro = x*y
+div = x/y
+print("sum  =",sum)
+print("difference  =",diff)
+print("product  =",pro)
+print("divide  =",div)
