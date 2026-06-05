@@ -1,5 +1,5 @@
-num = int(input("enter marks"))
-if num<=40 :
+number = int(input("enter marks"))
+if number<=40 :
     print("fail")
-elif num>=41 :
+elif number>=41 :
     print("pass")
